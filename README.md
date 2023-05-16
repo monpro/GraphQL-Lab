@@ -1,11 +1,2 @@
-# Advanced GraphQL wtih Node.js
-> Learn more advanced skills for GraphQL APIs
-
-Check out the [slides](https://docs.google.com/presentation/d/1DaTDx2Jdolkws2xPx44ee6WuQYMiIAyaaEmN-IBaW1s/edit?usp=sharing)
-
-## Requirements
-* Node.js version `>= 6`
-
-## Solutions
-There is a solution branch
-`git checkout solution`
+# GraphQL-Lab
+Welcome to GraphQL-Lab! This is a repository for learning and practicing GraphQL. This repository contains code examples, exercises, and resources to help you master GraphQL.
